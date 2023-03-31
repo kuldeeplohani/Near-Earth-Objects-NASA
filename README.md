@@ -1,4 +1,4 @@
-# NEO by NASA
+## NEO by NASA
 Asteroids, sometimes called minor planets, are rocky, airless remnants left over from the early formation of our solar system about 4.6 billion years ago.
 
 The total mass of all the asteroids in the main asteroid belt combined is less than that of Earth's Moon.
@@ -10,7 +10,7 @@ Some asteroids go in front of and behind Jupiter. These are called Trojan astero
 
 Asteroids are left over from the formation of our solar system.
 
-# Near Earth Objects by NASA
+## Near Earth Objects by NASA
 NEO stands for Near-Earth Object. It refers to any asteroid or comet whose orbit around the Sun takes it close to Earth's orbit. NASA (National Aeronautics and Space Administration) is the US government agency responsible for the civilian space program, aeronautics research, and aerospace technology.
 
 NASA actively tracks and studies NEOs in order to better understand their orbits, composition, and potential hazards to Earth. NASA's NEO Observations Program uses ground-based telescopes and space-based assets to detect, track, and characterize NEOs. This information is used to determine whether a NEO poses a threat of impact with Earth, and to develop strategies to mitigate that threat if necessary.
